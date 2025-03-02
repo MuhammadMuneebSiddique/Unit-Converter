@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the app
-st.title("Google-Style Unit Converter")
+st.title("Unit Converter")
 st.markdown("#### Convert between different units effortlessly!")
 
 # Unit conversion functions
